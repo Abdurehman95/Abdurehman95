@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **portfolio**
 
-- 🌱 I’m currently learning **frontend and framework**
+- 🌱 I’m currently learning **full-stack and framework**
 
 - 💬 Ask me about **javascript**
 

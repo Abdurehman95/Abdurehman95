@@ -1,27 +1,64 @@
 <h1 align="center">Hi 👋, I'm Abdurehman</h1>
-<h3 align="center">A passionate full-stack developer from Ethiopia</h3>
+<h3 align="center">🚀 A passionate Full-Stack Developer from Ethiopia 🇪🇹</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurehman95&label=Profile%20views&color=0e75b6&style=flat" alt="abdurehman95" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurehman95" alt="abdurehman95" /></a> </p>
-
-- 🔭 I’m currently working on **portfolio**
-
-- 🌱 I’m currently learning **full-stack and framework**
-
-- 💬 Ask me about **javascript**
-
-- 📫 How to reach me **Abdurehmanseid856@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdurehman95&label=Profile%20views&color=0e75b6&style=flat" alt="abdurehman95" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdurehman95&theme=onedark&no-frame=true&column=7" alt="abdurehman95 trophies"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurehman95&show_icons=true&locale=en&layout=compact" alt="abdurehman95" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurehman95&show_icons=true&locale=en" alt="abdurehman95" /></p>
+- 🔭 I’m currently working on: **My personal portfolio**
+- 🌱 Currently learning: **Full-stack development | JavaScript Frameworks (React, Node.js)**
+- 💬 Ask me about: **JavaScript, APIs, Backend Architecture**
+- 📫 Reach me at: **Abdurehmanseid856@gmail.com**
+- ⚡ Fun fact: I love turning ideas into real, working applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurehman95&" alt="abdurehman95" /></p>
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="mailto:Abdurehmanseid856@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/abdurehman95"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" width="40" height="40" alt="Apache Solr"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdurehman95&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurehman95&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurehman95&theme=tokyonight" alt="GitHub Streak"/>
+</p>

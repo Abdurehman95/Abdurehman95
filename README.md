@@ -11,15 +11,7 @@
   </a>
 </p>
 
----
 
-- 🔭 I’m currently working on: **My personal portfolio**
-- 🌱 Currently learning: **Full-stack development | JavaScript Frameworks (React, Node.js)**
-- 💬 Ask me about: **JavaScript, APIs, Backend Architecture**
-- 📫 Reach me at: **Abdurehmanseid856@gmail.com**
-- ⚡ Fun fact: I love turning ideas into real, working applications.
-
----
 
 ### 🌐 Connect with me
 
@@ -62,3 +54,12 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurehman95&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+---
+
+- 🔭 I’m currently working on: **My personal portfolio**
+- 🌱 Currently learning: **Full-stack development | JavaScript Frameworks (React, Node.js)**
+- 💬 Ask me about: **JavaScript, APIs, Backend Architecture**
+- 📫 Reach me at: **Abdurehmanseid856@gmail.com**
+- ⚡ Fun fact: I love turning ideas into real, working applications.
+
+---

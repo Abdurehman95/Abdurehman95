@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=abdurehman95&label=Profile%20views&color=0e75b6&style=flat" alt="abdurehman95" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdurehman95&theme=onedark&no-frame=true&column=7" alt="abdurehman95 trophies"/>
-  </a>
-</p>
-
 ---
 
 ### 🌐 Connect With Me

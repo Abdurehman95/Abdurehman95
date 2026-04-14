@@ -48,16 +48,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdurehman95&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurehman95&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurehman95&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
+![GitHub Stats](https://gitglow-three.vercel.app/api/stats?username=Abdurehman95&theme=dark)
 ---
 
 ### 💡 About Me

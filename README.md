@@ -51,6 +51,7 @@
 ![GitHub Stats](https://gitglow-three.vercel.app/api/stats?username=Abdurehman95&theme=dark)
 ---
 
+![GitHub Streak](https://gitglow-three.vercel.app/api/streak?username=Abdurehman95&theme=dark)
 ### 💡 About Me
 
 - 🔭 Currently working on: **My personal portfolio**

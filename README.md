@@ -1,6 +1,8 @@
-<div align="center">
-  <h1>Hi there, I'm Abdurehman Seid 👋</h1>
-  <h3>🚀 Full-Stack Software Developer | Based in Ethiopia 🇪🇹</h3>
+<h1 align="center">👋 𝓗𝓲, 𝓘'𝓶 𝓐𝓫𝓭𝓾𝓻𝓮𝓱𝓶𝓪𝓷</h1>
+
+<h3 align="center">🚀 𝓟𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 | 𝓕𝓻𝓸𝓶 𝓔𝓽𝓱𝓲𝓸𝓹𝓲𝓪 🇪🇹</h3>
+
+
   <p><i>Architecting scalable web & mobile ecosystems from database design to interactive UI.</i></p>
 
   <!-- Profile Views & Social Badges -->

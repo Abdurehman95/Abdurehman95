@@ -7,10 +7,10 @@
 
   <!-- Profile Views & Social Badges -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=abdurehman95&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <!-- <img src="https://komarev.com/ghpvc/?username=abdurehman95&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
     <a href="mailto:Abdurehmanseid856@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
+    </a> -->
     <a href="https://linkedin.com/in/your-profile" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
